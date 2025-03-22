@@ -1,6 +1,10 @@
 .venv
+
 myenv
 venv
+
+myenv/
+
 env.py
 __pycache__/
 *.pyc
@@ -8,6 +12,10 @@ __pycache__/
 node_modules/
 core.Microsoft*
 core.mongo*
+<<<<<<< HEAD
 core.python*myenv/
 venv/
 venv/
+=======
+
+>>>>>>> f0bc2bc81c0ea2282d08e988c8e3c97a652323c2
